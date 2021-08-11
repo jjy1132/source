@@ -1,0 +1,22 @@
+git pc다운로드 및 설치
+https://git-scm.com/downloads
+
+git 초기화
+$ git init
+
+정보등록
+$ git config --global user.email "s4616@naver.com"
+$ git config  -global user.name "bohamian"
+
+커밋에 추가할 파일 선택
+$ git add README.txt
+
+커밋에 대한 설명
+$ git commit -m "사이트 설명"
+
+원격저장소 만들기
+원격저장소에 전송
+$ git push origin master
+
+원격저장소에서 로컬저장소로 다운
+git clone git주소 .

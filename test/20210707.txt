@@ -1,0 +1,4 @@
+#main_pack > section > div > div.photo_group._listGrid > div.photo_tile._grid > div:nth-child(1) > div > div.thumb > a > img
+
+
+#main_pack > section > div > div.photo_group._listGrid > div.photo_tile._grid > div:nth
